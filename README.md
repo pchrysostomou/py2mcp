@@ -6,7 +6,7 @@
 
 [![PyPI version](https://img.shields.io/pypi/v/py2mcp.svg)](https://pypi.org/project/py2mcp/)
 [![Python versions](https://img.shields.io/pypi/pyversions/py2mcp.svg)](https://pypi.org/project/py2mcp/)
-[![CI](https://github.com/yourusername/py2mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/py2mcp/actions)
+[![CI](https://github.com/pchrysostomou/py2mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/pchrysostomou/py2mcp/actions)
 
 <img src="./demo.gif" alt="py2mcp demonstration" width="800">
 
