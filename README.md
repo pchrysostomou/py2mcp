@@ -8,10 +8,6 @@
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://pypi.org/project/py2mcp/)
 [![CI](https://github.com/pchrysostomou/py2mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/pchrysostomou/py2mcp/actions)
 
-<br>
-<img src="./demo.png" alt="py2mcp demonstration" width="800">
-
-
 </div>
 
 ## The Problem
@@ -82,7 +78,3 @@ To use your Python file directly with Claude Desktop, just add this snippet to y
 - **Docstring Fallback:** Parses Google-style or Sphinx docstrings to deduce schemas if native hints are missing.
 - **Async Native:** Fully supports async I/O bounded tool functions.
 - **Preview Output:** Use `py2mcp --dry-run tools.py` to inspect the generated JSON schema without starting the server.
-
-## License
-
-MIT
