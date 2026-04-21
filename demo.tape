@@ -16,8 +16,11 @@ Sleep 3s
 
 Type "py2mcp test_tools.py"
 Enter
-Sleep 3s
+Sleep 4s
 
-Type "# Now your tools are available in Claude Desktop!"
+Ctrl+C
+Sleep 1s
+
+Type "# Now your tools are available in Claude Desktop! 🚀"
 Enter
 Sleep 3s

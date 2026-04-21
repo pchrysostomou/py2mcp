@@ -5,12 +5,12 @@
 **Turn any Python file into an MCP server automatically.**
 
 [![PyPI version](https://img.shields.io/pypi/v/py2mcp.svg)](https://pypi.org/project/py2mcp/)
-[![Python versions](https://img.shields.io/pypi/pyversions/py2mcp.svg)](https://pypi.org/project/py2mcp/)
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://pypi.org/project/py2mcp/)
 [![CI](https://github.com/pchrysostomou/py2mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/pchrysostomou/py2mcp/actions)
 
+<br>
 <img src="./demo.png" alt="py2mcp demonstration" width="800">
 
-*(Save your snippet screenshot as `demo.png` here!)*
 
 </div>
 
