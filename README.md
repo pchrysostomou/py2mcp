@@ -8,9 +8,9 @@
 [![Python versions](https://img.shields.io/pypi/pyversions/py2mcp.svg)](https://pypi.org/project/py2mcp/)
 [![CI](https://github.com/pchrysostomou/py2mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/pchrysostomou/py2mcp/actions)
 
-<img src="./demo.gif" alt="py2mcp demonstration" width="800">
+<img src="./demo.png" alt="py2mcp demonstration" width="800">
 
-*(Add your VHS terminal GIF here!)*
+*(Save your snippet screenshot as `demo.png` here!)*
 
 </div>
 
